@@ -1,1 +1,2 @@
-Assignment advanced programming 2 course
+Assignments advanced programming 2 course
+Golang practice
